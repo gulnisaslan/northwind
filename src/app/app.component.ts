@@ -7,6 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'northwind';
-  user: string = "Engin demiroğ";
+  //user: string = "Engin demiroğ";
 
 }
